@@ -1,6 +1,6 @@
 # CS Rival Scanner
 Provides useful information on your live enemy by analysing statisctics. It's hard to oppose your enemies when you don't know anything about them. This program will solve this problem. It's function is to provide you with intel on your enemies. This will make it easier to choose tactics for next round and, as result, winning.
-
+This repository is a clone. Original one is here: https://github.com/just1ce415/CS_rival_scanner
 ***
 
 # Table of contents
